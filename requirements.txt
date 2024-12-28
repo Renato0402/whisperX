@@ -2,7 +2,7 @@ speechbrain==1.0.0
 faster-whisper==1.0.0
 numpy==1.26.4
 transformers
-ctranslate==4.4.0
+ctranslate2==4.4.0
 pandas
 setuptools>=65
 nltk
